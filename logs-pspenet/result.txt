@@ -1,0 +1,1300 @@
+*************** evaluate model:1000 ***************
+Num classes 19
+10 / 50: 29.46
+20 / 50: 34.46
+30 / 50: 34.21
+40 / 50: 36.07
+===>road:	90.94
+===>sidewalk:	59.86
+===>building:	77.5
+===>wall:	30.73
+===>fence:	42.9
+===>pole:	21.68
+===>light:	30.89
+===>sign:	18.99
+===>vegetation:	65.47
+===>terrain:	28.35
+===>sky:	81.57
+===>person:	19.0
+===>rider:	16.65
+===>car:	66.19
+===>truck:	0.0
+===>bus:	0.0
+===>train:	0.0
+===>motocycle:	1.98
+===>bicycle:	24.16
+===> mIoU: 35.62
+*************** evaluate model:2000 ***************
+Num classes 19
+10 / 50: 31.12
+20 / 50: 34.92
+30 / 50: 34.57
+40 / 50: 36.50
+===>road:	91.13
+===>sidewalk:	62.74
+===>building:	78.78
+===>wall:	31.31
+===>fence:	37.87
+===>pole:	21.28
+===>light:	29.82
+===>sign:	14.83
+===>vegetation:	69.15
+===>terrain:	32.32
+===>sky:	83.29
+===>person:	20.53
+===>rider:	21.38
+===>car:	61.23
+===>truck:	0.0
+===>bus:	0.0
+===>train:	0.0
+===>motocycle:	0.08
+===>bicycle:	24.32
+===> mIoU: 35.79
+*************** evaluate model:3000 ***************
+Num classes 19
+10 / 50: 31.27
+20 / 50: 35.30
+30 / 50: 35.43
+40 / 50: 35.89
+===>road:	84.16
+===>sidewalk:	39.85
+===>building:	79.03
+===>wall:	32.67
+===>fence:	41.27
+===>pole:	23.53
+===>light:	38.23
+===>sign:	13.91
+===>vegetation:	68.19
+===>terrain:	21.23
+===>sky:	81.95
+===>person:	22.21
+===>rider:	15.1
+===>car:	65.38
+===>truck:	0.0
+===>bus:	0.0
+===>train:	0.0
+===>motocycle:	11.96
+===>bicycle:	28.01
+===> mIoU: 35.09
+*************** evaluate model:4000 ***************
+Num classes 19
+10 / 50: 32.66
+20 / 50: 36.74
+30 / 50: 36.71
+40 / 50: 37.12
+===>road:	89.77
+===>sidewalk:	58.3
+===>building:	78.76
+===>wall:	33.69
+===>fence:	43.41
+===>pole:	18.33
+===>light:	30.73
+===>sign:	13.86
+===>vegetation:	66.51
+===>terrain:	31.61
+===>sky:	80.53
+===>person:	18.67
+===>rider:	22.15
+===>car:	62.86
+===>truck:	0.0
+===>bus:	0.0
+===>train:	0.0
+===>motocycle:	13.01
+===>bicycle:	27.97
+===> mIoU: 36.32
+*************** evaluate model:5000 ***************
+Num classes 19
+10 / 50: 31.78
+20 / 50: 34.85
+30 / 50: 34.79
+40 / 50: 36.57
+===>road:	89.68
+===>sidewalk:	61.31
+===>building:	78.29
+===>wall:	31.33
+===>fence:	39.2
+===>pole:	22.68
+===>light:	42.48
+===>sign:	16.98
+===>vegetation:	64.11
+===>terrain:	29.13
+===>sky:	80.02
+===>person:	19.44
+===>rider:	21.85
+===>car:	62.87
+===>truck:	0.0
+===>bus:	0.0
+===>train:	0.0
+===>motocycle:	3.02
+===>bicycle:	24.71
+===> mIoU: 36.16
+*************** evaluate model:6000 ***************
+Num classes 19
+10 / 50: 28.61
+20 / 50: 33.43
+30 / 50: 34.28
+40 / 50: 35.76
+===>road:	90.04
+===>sidewalk:	55.55
+===>building:	76.67
+===>wall:	32.42
+===>fence:	43.52
+===>pole:	23.34
+===>light:	34.34
+===>sign:	16.06
+===>vegetation:	65.16
+===>terrain:	31.52
+===>sky:	80.02
+===>person:	19.71
+===>rider:	7.93
+===>car:	61.85
+===>truck:	0.0
+===>bus:	0.0
+===>train:	0.0
+===>motocycle:	2.13
+===>bicycle:	23.08
+===> mIoU: 34.91
+*************** evaluate model:7000 ***************
+Num classes 19
+10 / 50: 33.54
+20 / 50: 35.97
+30 / 50: 35.27
+40 / 50: 36.47
+===>road:	87.25
+===>sidewalk:	58.71
+===>building:	74.82
+===>wall:	34.28
+===>fence:	41.54
+===>pole:	23.2
+===>light:	36.16
+===>sign:	13.54
+===>vegetation:	69.85
+===>terrain:	32.63
+===>sky:	76.14
+===>person:	21.01
+===>rider:	15.29
+===>car:	62.15
+===>truck:	0.0
+===>bus:	0.0
+===>train:	0.0
+===>motocycle:	6.25
+===>bicycle:	27.49
+===> mIoU: 35.81
+*************** evaluate model:8000 ***************
+Num classes 19
+10 / 50: 32.87
+20 / 50: 36.07
+30 / 50: 36.26
+40 / 50: 37.78
+===>road:	91.99
+===>sidewalk:	63.42
+===>building:	76.77
+===>wall:	30.4
+===>fence:	35.56
+===>pole:	26.89
+===>light:	32.69
+===>sign:	14.66
+===>vegetation:	68.23
+===>terrain:	27.95
+===>sky:	80.93
+===>person:	21.19
+===>rider:	29.05
+===>car:	61.96
+===>truck:	0.0
+===>bus:	0.0
+===>train:	0.0
+===>motocycle:	7.58
+===>bicycle:	30.17
+===> mIoU: 36.81
+*************** evaluate model:9000 ***************
+Num classes 19
+10 / 50: 32.00
+20 / 50: 33.61
+30 / 50: 34.74
+40 / 50: 36.92
+===>road:	92.63
+===>sidewalk:	61.87
+===>building:	77.64
+===>wall:	30.49
+===>fence:	40.28
+===>pole:	20.03
+===>light:	36.58
+===>sign:	12.1
+===>vegetation:	67.13
+===>terrain:	27.13
+===>sky:	80.84
+===>person:	21.42
+===>rider:	26.46
+===>car:	64.7
+===>truck:	0.0
+===>bus:	0.0
+===>train:	0.0
+===>motocycle:	1.74
+===>bicycle:	28.98
+===> mIoU: 36.32
+*************** evaluate model:10000 ***************
+Num classes 19
+10 / 50: 31.01
+20 / 50: 33.37
+30 / 50: 34.61
+40 / 50: 35.68
+===>road:	90.83
+===>sidewalk:	61.42
+===>building:	79.43
+===>wall:	28.58
+===>fence:	37.64
+===>pole:	20.16
+===>light:	39.97
+===>sign:	11.81
+===>vegetation:	68.16
+===>terrain:	27.71
+===>sky:	80.17
+===>person:	20.85
+===>rider:	24.89
+===>car:	59.63
+===>truck:	0.0
+===>bus:	0.0
+===>train:	0.0
+===>motocycle:	0.52
+===>bicycle:	18.04
+===> mIoU: 35.25
+*************** evaluate model:11000 ***************
+Num classes 19
+10 / 50: 29.39
+20 / 50: 33.75
+30 / 50: 34.30
+40 / 50: 35.85
+===>road:	89.21
+===>sidewalk:	58.74
+===>building:	76.28
+===>wall:	31.36
+===>fence:	39.92
+===>pole:	20.18
+===>light:	37.31
+===>sign:	14.28
+===>vegetation:	65.56
+===>terrain:	34.5
+===>sky:	75.29
+===>person:	19.86
+===>rider:	25.96
+===>car:	56.03
+===>truck:	0.0
+===>bus:	0.0
+===>train:	0.0
+===>motocycle:	0.18
+===>bicycle:	24.52
+===> mIoU: 35.22
+*************** evaluate model:12000 ***************
+Num classes 19
+10 / 50: 32.54
+20 / 50: 35.65
+30 / 50: 36.12
+40 / 50: 37.70
+===>road:	89.24
+===>sidewalk:	61.92
+===>building:	78.31
+===>wall:	29.1
+===>fence:	39.41
+===>pole:	22.4
+===>light:	37.75
+===>sign:	13.07
+===>vegetation:	65.37
+===>terrain:	30.04
+===>sky:	82.99
+===>person:	18.94
+===>rider:	28.2
+===>car:	62.56
+===>truck:	0.0
+===>bus:	0.0
+===>train:	0.0
+===>motocycle:	4.45
+===>bicycle:	29.76
+===> mIoU: 36.5
+*************** evaluate model:13000 ***************
+Num classes 19
+10 / 50: 31.16
+20 / 50: 34.96
+30 / 50: 35.14
+40 / 50: 37.23
+===>road:	90.16
+===>sidewalk:	57.06
+===>building:	77.38
+===>wall:	31.85
+===>fence:	39.91
+===>pole:	23.12
+===>light:	32.34
+===>sign:	16.13
+===>vegetation:	68.82
+===>terrain:	32.01
+===>sky:	78.98
+===>person:	21.04
+===>rider:	26.35
+===>car:	61.51
+===>truck:	0.0
+===>bus:	0.0
+===>train:	0.0
+===>motocycle:	4.9
+===>bicycle:	31.61
+===> mIoU: 36.48
+*************** evaluate model:14000 ***************
+Num classes 19
+10 / 50: 29.86
+20 / 50: 33.85
+30 / 50: 34.24
+40 / 50: 35.87
+===>road:	91.28
+===>sidewalk:	60.95
+===>building:	72.37
+===>wall:	29.32
+===>fence:	35.77
+===>pole:	21.62
+===>light:	39.32
+===>sign:	13.84
+===>vegetation:	64.88
+===>terrain:	25.5
+===>sky:	74.43
+===>person:	18.88
+===>rider:	19.79
+===>car:	63.9
+===>truck:	0.0
+===>bus:	0.0
+===>train:	0.0
+===>motocycle:	4.33
+===>bicycle:	27.59
+===> mIoU: 34.94
+*************** evaluate model:15000 ***************
+Num classes 19
+10 / 50: 30.44
+20 / 50: 34.71
+30 / 50: 35.56
+40 / 50: 37.18
+===>road:	91.33
+===>sidewalk:	65.34
+===>building:	66.29
+===>wall:	33.99
+===>fence:	44.06
+===>pole:	23.4
+===>light:	37.12
+===>sign:	14.03
+===>vegetation:	67.69
+===>terrain:	31.19
+===>sky:	63.28
+===>person:	20.28
+===>rider:	29.89
+===>car:	61.26
+===>truck:	0.0
+===>bus:	0.0
+===>train:	0.0
+===>motocycle:	8.89
+===>bicycle:	27.97
+===> mIoU: 36.11
+*************** evaluate model:16000 ***************
+Num classes 19
+10 / 50: 31.23
+20 / 50: 35.19
+30 / 50: 35.96
+40 / 50: 37.76
+===>road:	90.88
+===>sidewalk:	61.27
+===>building:	77.8
+===>wall:	33.89
+===>fence:	42.82
+===>pole:	21.95
+===>light:	34.64
+===>sign:	14.84
+===>vegetation:	66.86
+===>terrain:	34.52
+===>sky:	78.78
+===>person:	19.78
+===>rider:	26.16
+===>car:	59.34
+===>truck:	0.0
+===>bus:	0.0
+===>train:	0.0
+===>motocycle:	3.49
+===>bicycle:	29.58
+===> mIoU: 36.66
+*************** evaluate model:17000 ***************
+Num classes 19
+10 / 50: 30.56
+20 / 50: 34.65
+30 / 50: 35.23
+40 / 50: 37.61
+===>road:	90.91
+===>sidewalk:	62.59
+===>building:	75.47
+===>wall:	33.48
+===>fence:	44.27
+===>pole:	21.48
+===>light:	30.5
+===>sign:	16.67
+===>vegetation:	64.39
+===>terrain:	34.35
+===>sky:	80.04
+===>person:	19.51
+===>rider:	25.42
+===>car:	66.54
+===>truck:	0.0
+===>bus:	0.0
+===>train:	0.0
+===>motocycle:	1.68
+===>bicycle:	32.27
+===> mIoU: 36.82
+*************** evaluate model:18000 ***************
+Num classes 19
+10 / 50: 28.95
+20 / 50: 32.81
+30 / 50: 33.62
+40 / 50: 35.36
+===>road:	91.61
+===>sidewalk:	64.95
+===>building:	74.35
+===>wall:	32.25
+===>fence:	41.05
+===>pole:	18.98
+===>light:	37.12
+===>sign:	12.2
+===>vegetation:	62.38
+===>terrain:	29.62
+===>sky:	77.51
+===>person:	20.23
+===>rider:	11.58
+===>car:	61.43
+===>truck:	0.0
+===>bus:	0.0
+===>train:	0.0
+===>motocycle:	1.04
+===>bicycle:	23.9
+===> mIoU: 34.75
+*************** evaluate model:19000 ***************
+Num classes 19
+10 / 50: 32.14
+20 / 50: 34.31
+30 / 50: 35.02
+40 / 50: 37.27
+===>road:	90.87
+===>sidewalk:	63.28
+===>building:	77.01
+===>wall:	31.44
+===>fence:	41.12
+===>pole:	19.76
+===>light:	42.58
+===>sign:	13.49
+===>vegetation:	68.08
+===>terrain:	29.26
+===>sky:	81.18
+===>person:	20.67
+===>rider:	27.52
+===>car:	63.29
+===>truck:	0.0
+===>bus:	0.0
+===>train:	0.0
+===>motocycle:	0.39
+===>bicycle:	28.4
+===> mIoU: 36.75
+*************** evaluate model:20000 ***************
+Num classes 19
+10 / 50: 32.44
+20 / 50: 35.98
+30 / 50: 36.94
+40 / 50: 37.54
+===>road:	90.56
+===>sidewalk:	58.94
+===>building:	77.88
+===>wall:	32.43
+===>fence:	40.04
+===>pole:	20.67
+===>light:	40.99
+===>sign:	16.77
+===>vegetation:	64.75
+===>terrain:	31.31
+===>sky:	80.2
+===>person:	19.72
+===>rider:	27.09
+===>car:	62.28
+===>truck:	0.0
+===>bus:	0.0
+===>train:	0.0
+===>motocycle:	10.3
+===>bicycle:	23.91
+===> mIoU: 36.73
+*************** evaluate model:21000 ***************
+Num classes 19
+10 / 50: 32.25
+20 / 50: 35.05
+30 / 50: 36.04
+40 / 50: 37.91
+===>road:	90.74
+===>sidewalk:	65.21
+===>building:	77.82
+===>wall:	33.22
+===>fence:	39.92
+===>pole:	21.74
+===>light:	38.95
+===>sign:	17.1
+===>vegetation:	67.43
+===>terrain:	21.63
+===>sky:	81.64
+===>person:	20.99
+===>rider:	27.85
+===>car:	63.37
+===>truck:	0.0
+===>bus:	0.0
+===>train:	0.0
+===>motocycle:	4.74
+===>bicycle:	30.7
+===> mIoU: 37.0
+*************** evaluate model:22000 ***************
+Num classes 19
+10 / 50: 31.74
+20 / 50: 32.70
+30 / 50: 32.29
+40 / 50: 35.08
+===>road:	83.07
+===>sidewalk:	51.84
+===>building:	73.58
+===>wall:	34.74
+===>fence:	39.54
+===>pole:	23.41
+===>light:	46.79
+===>sign:	12.22
+===>vegetation:	67.31
+===>terrain:	25.97
+===>sky:	77.83
+===>person:	17.07
+===>rider:	19.7
+===>car:	56.64
+===>truck:	0.0
+===>bus:	0.0
+===>train:	0.0
+===>motocycle:	0.01
+===>bicycle:	28.51
+===> mIoU: 34.64
+*************** evaluate model:23000 ***************
+Num classes 19
+10 / 50: 34.82
+20 / 50: 37.13
+30 / 50: 37.29
+40 / 50: 38.20
+===>road:	88.82
+===>sidewalk:	58.5
+===>building:	78.48
+===>wall:	36.17
+===>fence:	38.87
+===>pole:	19.96
+===>light:	38.5
+===>sign:	14.76
+===>vegetation:	69.86
+===>terrain:	29.87
+===>sky:	82.65
+===>person:	20.44
+===>rider:	29.96
+===>car:	65.85
+===>truck:	0.0
+===>bus:	0.0
+===>train:	0.0
+===>motocycle:	8.38
+===>bicycle:	27.58
+===> mIoU: 37.3
+*************** evaluate model:24000 ***************
+Num classes 19
+10 / 50: 34.98
+20 / 50: 37.20
+30 / 50: 37.27
+40 / 50: 38.13
+===>road:	89.13
+===>sidewalk:	59.09
+===>building:	78.04
+===>wall:	30.91
+===>fence:	38.18
+===>pole:	23.37
+===>light:	28.58
+===>sign:	15.51
+===>vegetation:	68.41
+===>terrain:	34.29
+===>sky:	83.1
+===>person:	20.66
+===>rider:	27.53
+===>car:	64.97
+===>truck:	0.0
+===>bus:	0.0
+===>train:	0.0
+===>motocycle:	10.39
+===>bicycle:	30.62
+===> mIoU: 36.99
+*************** evaluate model:25000 ***************
+Num classes 19
+10 / 50: 33.42
+20 / 50: 37.10
+30 / 50: 38.14
+40 / 50: 39.64
+===>road:	91.65
+===>sidewalk:	63.66
+===>building:	77.45
+===>wall:	39.56
+===>fence:	44.49
+===>pole:	22.43
+===>light:	47.77
+===>sign:	12.96
+===>vegetation:	68.53
+===>terrain:	31.46
+===>sky:	81.46
+===>person:	21.25
+===>rider:	30.57
+===>car:	61.73
+===>truck:	0.0
+===>bus:	0.0
+===>train:	0.0
+===>motocycle:	8.88
+===>bicycle:	34.6
+===> mIoU: 38.87
+*************** evaluate model:26000 ***************
+Num classes 19
+10 / 50: 31.50
+20 / 50: 35.56
+30 / 50: 36.38
+40 / 50: 38.34
+===>road:	91.95
+===>sidewalk:	63.73
+===>building:	77.91
+===>wall:	34.95
+===>fence:	43.07
+===>pole:	20.79
+===>light:	41.77
+===>sign:	14.5
+===>vegetation:	68.52
+===>terrain:	28.07
+===>sky:	80.6
+===>person:	19.96
+===>rider:	22.2
+===>car:	63.15
+===>truck:	0.0
+===>bus:	0.0
+===>train:	0.0
+===>motocycle:	7.81
+===>bicycle:	34.0
+===> mIoU: 37.52
+*************** evaluate model:27000 ***************
+Num classes 19
+10 / 50: 30.97
+20 / 50: 35.24
+30 / 50: 35.75
+40 / 50: 38.15
+===>road:	91.4
+===>sidewalk:	61.57
+===>building:	78.76
+===>wall:	34.0
+===>fence:	43.04
+===>pole:	19.86
+===>light:	42.59
+===>sign:	15.19
+===>vegetation:	68.07
+===>terrain:	30.81
+===>sky:	81.31
+===>person:	20.06
+===>rider:	25.71
+===>car:	66.32
+===>truck:	0.0
+===>bus:	0.0
+===>train:	0.0
+===>motocycle:	2.48
+===>bicycle:	31.93
+===> mIoU: 37.53
+*************** evaluate model:28000 ***************
+Num classes 19
+10 / 50: 30.40
+20 / 50: 34.87
+30 / 50: 35.58
+40 / 50: 37.97
+===>road:	90.39
+===>sidewalk:	60.57
+===>building:	76.41
+===>wall:	37.91
+===>fence:	43.76
+===>pole:	23.11
+===>light:	34.33
+===>sign:	12.34
+===>vegetation:	68.15
+===>terrain:	31.45
+===>sky:	79.18
+===>person:	20.31
+===>rider:	23.22
+===>car:	65.82
+===>truck:	0.0
+===>bus:	0.0
+===>train:	0.0
+===>motocycle:	3.18
+===>bicycle:	33.42
+===> mIoU: 37.03
+*************** evaluate model:29000 ***************
+Num classes 19
+10 / 50: 31.35
+20 / 50: 35.23
+30 / 50: 36.16
+40 / 50: 38.34
+===>road:	90.89
+===>sidewalk:	60.67
+===>building:	78.32
+===>wall:	37.06
+===>fence:	42.45
+===>pole:	22.93
+===>light:	45.93
+===>sign:	15.52
+===>vegetation:	67.39
+===>terrain:	30.27
+===>sky:	80.97
+===>person:	20.67
+===>rider:	25.47
+===>car:	62.4
+===>truck:	0.0
+===>bus:	0.0
+===>train:	0.0
+===>motocycle:	2.11
+===>bicycle:	31.26
+===> mIoU: 37.59
+*************** evaluate model:30000 ***************
+Num classes 19
+10 / 50: 31.78
+20 / 50: 35.23
+30 / 50: 35.78
+40 / 50: 38.01
+===>road:	90.95
+===>sidewalk:	63.17
+===>building:	78.11
+===>wall:	36.11
+===>fence:	39.17
+===>pole:	24.38
+===>light:	38.75
+===>sign:	16.23
+===>vegetation:	67.34
+===>terrain:	28.91
+===>sky:	78.67
+===>person:	21.13
+===>rider:	28.53
+===>car:	64.2
+===>truck:	0.0
+===>bus:	0.0
+===>train:	0.0
+===>motocycle:	1.95
+===>bicycle:	30.39
+===> mIoU: 37.26
+*************** evaluate model:31000 ***************
+Num classes 19
+10 / 50: 32.33
+20 / 50: 36.33
+30 / 50: 37.29
+40 / 50: 38.78
+===>road:	91.32
+===>sidewalk:	61.88
+===>building:	76.72
+===>wall:	35.8
+===>fence:	39.94
+===>pole:	21.66
+===>light:	43.48
+===>sign:	17.16
+===>vegetation:	66.68
+===>terrain:	33.47
+===>sky:	80.28
+===>person:	20.98
+===>rider:	24.89
+===>car:	66.21
+===>truck:	0.0
+===>bus:	0.0
+===>train:	0.0
+===>motocycle:	5.59
+===>bicycle:	29.03
+===> mIoU: 37.64
+*************** evaluate model:32000 ***************
+Num classes 19
+10 / 50: 30.82
+20 / 50: 34.96
+30 / 50: 35.45
+40 / 50: 37.77
+===>road:	90.7
+===>sidewalk:	62.26
+===>building:	73.03
+===>wall:	30.63
+===>fence:	41.32
+===>pole:	23.12
+===>light:	35.86
+===>sign:	14.18
+===>vegetation:	67.94
+===>terrain:	33.36
+===>sky:	79.92
+===>person:	20.41
+===>rider:	25.49
+===>car:	64.99
+===>truck:	0.0
+===>bus:	0.0
+===>train:	0.0
+===>motocycle:	2.73
+===>bicycle:	30.2
+===> mIoU: 36.64
+*************** evaluate model:33000 ***************
+Num classes 19
+10 / 50: 31.78
+20 / 50: 36.01
+30 / 50: 35.95
+40 / 50: 37.53
+===>road:	91.13
+===>sidewalk:	61.45
+===>building:	77.59
+===>wall:	32.94
+===>fence:	41.63
+===>pole:	21.7
+===>light:	40.64
+===>sign:	12.72
+===>vegetation:	68.55
+===>terrain:	28.52
+===>sky:	82.84
+===>person:	20.68
+===>rider:	25.32
+===>car:	59.62
+===>truck:	0.0
+===>bus:	0.0
+===>train:	0.0
+===>motocycle:	3.18
+===>bicycle:	28.31
+===> mIoU: 36.68
+*************** evaluate model:34000 ***************
+Num classes 19
+10 / 50: 31.37
+20 / 50: 35.84
+30 / 50: 36.89
+40 / 50: 38.96
+===>road:	92.98
+===>sidewalk:	64.76
+===>building:	76.24
+===>wall:	37.17
+===>fence:	43.55
+===>pole:	23.09
+===>light:	43.9
+===>sign:	15.33
+===>vegetation:	67.9
+===>terrain:	30.64
+===>sky:	79.54
+===>person:	21.06
+===>rider:	28.6
+===>car:	65.2
+===>truck:	0.0
+===>bus:	0.0
+===>train:	0.0
+===>motocycle:	2.32
+===>bicycle:	31.29
+===> mIoU: 38.08
+*************** evaluate model:35000 ***************
+Num classes 19
+10 / 50: 31.64
+20 / 50: 35.81
+30 / 50: 36.23
+40 / 50: 37.87
+===>road:	91.46
+===>sidewalk:	63.09
+===>building:	76.42
+===>wall:	37.05
+===>fence:	40.95
+===>pole:	22.88
+===>light:	35.72
+===>sign:	13.98
+===>vegetation:	68.67
+===>terrain:	29.51
+===>sky:	80.1
+===>person:	20.2
+===>rider:	27.62
+===>car:	62.91
+===>truck:	0.0
+===>bus:	0.0
+===>train:	0.0
+===>motocycle:	4.01
+===>bicycle:	27.69
+===> mIoU: 36.96
+*************** evaluate model:36000 ***************
+Num classes 19
+10 / 50: 30.51
+20 / 50: 34.29
+30 / 50: 35.82
+40 / 50: 37.43
+===>road:	92.07
+===>sidewalk:	63.09
+===>building:	77.71
+===>wall:	32.7
+===>fence:	39.32
+===>pole:	23.04
+===>light:	35.81
+===>sign:	16.09
+===>vegetation:	66.31
+===>terrain:	33.17
+===>sky:	75.72
+===>person:	20.18
+===>rider:	25.57
+===>car:	63.42
+===>truck:	0.0
+===>bus:	0.0
+===>train:	0.0
+===>motocycle:	3.82
+===>bicycle:	29.12
+===> mIoU: 36.69
+*************** evaluate model:37000 ***************
+Num classes 19
+10 / 50: 31.56
+20 / 50: 35.39
+30 / 50: 36.26
+40 / 50: 37.91
+===>road:	92.63
+===>sidewalk:	64.96
+===>building:	77.38
+===>wall:	34.24
+===>fence:	40.21
+===>pole:	20.49
+===>light:	44.03
+===>sign:	14.11
+===>vegetation:	68.35
+===>terrain:	28.73
+===>sky:	80.18
+===>person:	19.55
+===>rider:	25.84
+===>car:	63.77
+===>truck:	0.0
+===>bus:	0.0
+===>train:	0.0
+===>motocycle:	3.77
+===>bicycle:	28.37
+===> mIoU: 37.19
+*************** evaluate model:38000 ***************
+Num classes 19
+10 / 50: 29.26
+20 / 50: 34.10
+30 / 50: 34.72
+40 / 50: 36.90
+===>road:	91.13
+===>sidewalk:	64.12
+===>building:	71.54
+===>wall:	31.3
+===>fence:	41.0
+===>pole:	24.13
+===>light:	42.77
+===>sign:	14.92
+===>vegetation:	67.25
+===>terrain:	32.29
+===>sky:	73.28
+===>person:	19.63
+===>rider:	14.83
+===>car:	63.75
+===>truck:	0.0
+===>bus:	0.0
+===>train:	0.0
+===>motocycle:	3.37
+===>bicycle:	29.81
+===> mIoU: 36.06
+*************** evaluate model:39000 ***************
+Num classes 19
+10 / 50: 31.43
+20 / 50: 35.66
+30 / 50: 36.14
+40 / 50: 37.43
+===>road:	91.12
+===>sidewalk:	62.5
+===>building:	73.83
+===>wall:	29.95
+===>fence:	40.1
+===>pole:	23.09
+===>light:	41.02
+===>sign:	12.26
+===>vegetation:	68.13
+===>terrain:	33.05
+===>sky:	80.49
+===>person:	19.9
+===>rider:	21.19
+===>car:	61.03
+===>truck:	0.0
+===>bus:	0.0
+===>train:	0.0
+===>motocycle:	5.72
+===>bicycle:	28.49
+===> mIoU: 36.41
+*************** evaluate model:40000 ***************
+Num classes 19
+10 / 50: 30.77
+20 / 50: 35.07
+30 / 50: 35.97
+40 / 50: 37.47
+===>road:	91.17
+===>sidewalk:	61.45
+===>building:	75.83
+===>wall:	32.36
+===>fence:	41.75
+===>pole:	21.45
+===>light:	40.59
+===>sign:	12.94
+===>vegetation:	67.11
+===>terrain:	32.59
+===>sky:	81.11
+===>person:	19.57
+===>rider:	11.11
+===>car:	65.32
+===>truck:	0.0
+===>bus:	0.0
+===>train:	0.0
+===>motocycle:	6.63
+===>bicycle:	29.42
+===> mIoU: 36.34
+*************** evaluate model:41000 ***************
+Num classes 19
+10 / 50: 32.81
+20 / 50: 36.62
+30 / 50: 37.84
+40 / 50: 38.61
+===>road:	91.41
+===>sidewalk:	63.01
+===>building:	76.74
+===>wall:	36.24
+===>fence:	42.68
+===>pole:	23.48
+===>light:	36.79
+===>sign:	16.58
+===>vegetation:	68.29
+===>terrain:	31.85
+===>sky:	78.16
+===>person:	20.19
+===>rider:	26.46
+===>car:	66.0
+===>truck:	0.0
+===>bus:	0.0
+===>train:	0.0
+===>motocycle:	8.39
+===>bicycle:	29.19
+===> mIoU: 37.66
+*************** evaluate model:42000 ***************
+Num classes 19
+10 / 50: 32.04
+20 / 50: 35.74
+30 / 50: 36.66
+40 / 50: 38.10
+===>road:	91.24
+===>sidewalk:	62.25
+===>building:	77.53
+===>wall:	37.43
+===>fence:	42.63
+===>pole:	20.54
+===>light:	41.41
+===>sign:	13.71
+===>vegetation:	69.25
+===>terrain:	32.15
+===>sky:	79.56
+===>person:	20.25
+===>rider:	16.24
+===>car:	64.8
+===>truck:	0.0
+===>bus:	0.0
+===>train:	0.0
+===>motocycle:	7.36
+===>bicycle:	32.12
+===> mIoU: 37.29
+*************** evaluate model:43000 ***************
+Num classes 19
+10 / 50: 31.62
+20 / 50: 35.39
+30 / 50: 36.48
+40 / 50: 38.01
+===>road:	91.8
+===>sidewalk:	63.06
+===>building:	76.83
+===>wall:	33.92
+===>fence:	41.42
+===>pole:	23.22
+===>light:	38.0
+===>sign:	14.74
+===>vegetation:	68.83
+===>terrain:	33.84
+===>sky:	78.35
+===>person:	20.29
+===>rider:	25.81
+===>car:	63.28
+===>truck:	0.0
+===>bus:	0.0
+===>train:	0.0
+===>motocycle:	4.63
+===>bicycle:	28.68
+===> mIoU: 37.2
+*************** evaluate model:44000 ***************
+Num classes 19
+10 / 50: 31.42
+20 / 50: 35.54
+30 / 50: 36.38
+40 / 50: 38.47
+===>road:	92.06
+===>sidewalk:	65.28
+===>building:	75.45
+===>wall:	35.41
+===>fence:	38.71
+===>pole:	22.83
+===>light:	39.52
+===>sign:	17.27
+===>vegetation:	69.24
+===>terrain:	33.65
+===>sky:	78.04
+===>person:	19.1
+===>rider:	23.64
+===>car:	66.08
+===>truck:	0.0
+===>bus:	0.0
+===>train:	0.0
+===>motocycle:	4.9
+===>bicycle:	30.66
+===> mIoU: 37.47
+*************** evaluate model:45000 ***************
+Num classes 19
+10 / 50: 30.64
+20 / 50: 34.80
+30 / 50: 35.64
+40 / 50: 37.85
+===>road:	92.13
+===>sidewalk:	64.06
+===>building:	75.3
+===>wall:	34.56
+===>fence:	40.02
+===>pole:	21.67
+===>light:	41.43
+===>sign:	13.47
+===>vegetation:	68.48
+===>terrain:	33.71
+===>sky:	76.07
+===>person:	19.39
+===>rider:	23.63
+===>car:	65.57
+===>truck:	0.0
+===>bus:	0.0
+===>train:	0.0
+===>motocycle:	3.49
+===>bicycle:	30.15
+===> mIoU: 37.01
+*************** evaluate model:46000 ***************
+Num classes 19
+10 / 50: 31.31
+20 / 50: 35.52
+30 / 50: 36.12
+40 / 50: 37.68
+===>road:	91.36
+===>sidewalk:	63.87
+===>building:	76.1
+===>wall:	32.77
+===>fence:	41.69
+===>pole:	18.94
+===>light:	42.74
+===>sign:	12.16
+===>vegetation:	68.27
+===>terrain:	33.17
+===>sky:	78.2
+===>person:	19.14
+===>rider:	25.31
+===>car:	61.33
+===>truck:	0.0
+===>bus:	0.0
+===>train:	0.0
+===>motocycle:	6.36
+===>bicycle:	29.34
+===> mIoU: 36.88
+*************** evaluate model:47000 ***************
+Num classes 19
+10 / 50: 31.31
+20 / 50: 35.23
+30 / 50: 35.66
+40 / 50: 37.67
+===>road:	91.36
+===>sidewalk:	63.0
+===>building:	75.11
+===>wall:	33.15
+===>fence:	40.07
+===>pole:	21.39
+===>light:	39.37
+===>sign:	13.37
+===>vegetation:	68.65
+===>terrain:	31.08
+===>sky:	78.68
+===>person:	19.92
+===>rider:	26.25
+===>car:	63.12
+===>truck:	0.0
+===>bus:	0.0
+===>train:	0.0
+===>motocycle:	4.57
+===>bicycle:	29.94
+===> mIoU: 36.79
+*************** evaluate model:48000 ***************
+Num classes 19
+10 / 50: 32.00
+20 / 50: 35.98
+30 / 50: 36.45
+40 / 50: 38.25
+===>road:	91.82
+===>sidewalk:	63.62
+===>building:	75.88
+===>wall:	32.28
+===>fence:	40.96
+===>pole:	22.67
+===>light:	39.31
+===>sign:	14.98
+===>vegetation:	68.56
+===>terrain:	31.6
+===>sky:	79.63
+===>person:	19.9
+===>rider:	25.84
+===>car:	65.87
+===>truck:	0.0
+===>bus:	0.0
+===>train:	0.0
+===>motocycle:	6.87
+===>bicycle:	29.09
+===> mIoU: 37.31
+*************** evaluate model:49000 ***************
+Num classes 19
+10 / 50: 32.03
+20 / 50: 36.13
+30 / 50: 36.49
+40 / 50: 38.21
+===>road:	91.88
+===>sidewalk:	63.97
+===>building:	76.18
+===>wall:	34.01
+===>fence:	41.72
+===>pole:	22.91
+===>light:	41.37
+===>sign:	13.68
+===>vegetation:	69.28
+===>terrain:	32.81
+===>sky:	77.8
+===>person:	19.6
+===>rider:	23.49
+===>car:	66.92
+===>truck:	0.0
+===>bus:	0.0
+===>train:	0.0
+===>motocycle:	6.76
+===>bicycle:	30.24
+===> mIoU: 37.51
+*************** evaluate model:50000 ***************
+Num classes 19
+10 / 50: 31.61
+20 / 50: 35.68
+30 / 50: 36.49
+40 / 50: 38.19
+===>road:	92.03
+===>sidewalk:	64.13
+===>building:	75.29
+===>wall:	35.0
+===>fence:	40.77
+===>pole:	22.37
+===>light:	38.24
+===>sign:	15.19
+===>vegetation:	68.49
+===>terrain:	32.2
+===>sky:	78.28
+===>person:	19.99
+===>rider:	21.73
+===>car:	64.58
+===>truck:	0.0
+===>bus:	0.0
+===>train:	0.0
+===>motocycle:	7.46
+===>bicycle:	30.53
+===> mIoU: 37.17
